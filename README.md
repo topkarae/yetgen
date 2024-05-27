@@ -1,9 +1,4 @@
 # yetgen
-Selamlar sevgili YetGenli 🤗 Umarız gününüz harika geçiyordur. 🚀
-
-Linkedln üzerinde *YetGen Core Python Eğitim Programı* katılımcı güncellemelerimizi yaparken, eğitim tanımında kullanabileceğiniz bir tavsiye ile geldik. 🤩
-
-👇 *Eğitim tanım metnimiz sizlerle* 👇
 
 🇹🇷 *TUR*
 
